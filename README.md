@@ -28,3 +28,4 @@ is_mobility_program - Возможность переезда
 ## Используемые технологии
 Работа с данными: Numpy, Pandas  
 ML: pytorch, catboost, transformers, scikit-learn
+Интерпретируемость: Shap
