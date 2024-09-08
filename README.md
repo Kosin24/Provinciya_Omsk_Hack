@@ -26,6 +26,7 @@ source_type - Тип источника вакансии
 metro_ids - ID станции метро  
 is_mobility_program - Возможность переезда
 ## Используемые технологии
+Разработка: Regex  
 Работа с данными: Numpy, Pandas  
-ML: pytorch, catboost, transformers, scikit-learn
+ML: optuna, pytorch, catboost, transformers, scikit-learn  
 Интерпретируемость: Shap
