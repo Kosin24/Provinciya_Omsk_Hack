@@ -26,8 +26,7 @@ work_places - Количество требуемых рабочих мест
 source_type - Тип источника вакансии  
 metro_ids - ID станции метро  
 is_mobility_program - Возможность переезда
-## Используемые технологии
-Разработка: Regex  
+## Используемые технологии 
 Работа с данными: Numpy, Pandas  
 ML: optuna, pytorch, catboost, transformers, scikit-learn  
 Интерпретируемость: Shap
